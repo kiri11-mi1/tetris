@@ -23,7 +23,7 @@ class Settings:
         self.black = (0, 0, 0)
         self.bg_color = (255, 255, 255)
         self.grey = (128,128,128)
-        self.white = (255, 255, 255) #отрефакторить
+        self.white = (255, 255, 255)
         #Переменные игры
         self.score = 0
         self.change_piece = False
