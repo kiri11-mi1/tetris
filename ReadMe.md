@@ -1,5 +1,5 @@
 <h1>TETRIS<h1>
-<h1>FAQ<h1>
+<h1>F.A.Q<h1>
 
 Q: Что это? <br>
 A: Игра на Python(Pygame)!
