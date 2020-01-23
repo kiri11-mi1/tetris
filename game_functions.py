@@ -107,7 +107,7 @@ def end_game(screen, score, sett):
 def draw_next_shape(screen, shape, sett):
     '''Отображение следущей фигуры на экране'''
     font = pygame.font.SysFont('comicsnas', 30)
-    label = font.render('Next figure', 1, sett.black)
+    label = font.render('Next figure:', 1, sett.black)
 
     x = sett.top_left_x + sett.zone_width + 50
     y = sett.top_left_y + sett.zone_height // 2 - 100
