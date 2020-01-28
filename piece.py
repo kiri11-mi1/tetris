@@ -1,4 +1,5 @@
 class Piece:
+    '''Класс для создания фигуры'''
     def __init__(self, column, row, shape, color):
         self.x = column
         self.y = row
